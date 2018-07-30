@@ -5,4 +5,4 @@ SanwichClub is an application that displays a list of sandwiches and shows the d
 Mercy Mutuku
 
 ## Acknowledgements
-Credits to Google, ALC and Udacity
+Credits to Google, ALC, Udacity, Stack Overflow
